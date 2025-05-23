@@ -5,17 +5,16 @@ title: DeployView Property
 {{< blocks/cover title="Welcome to DeployView Property" image_anchor="top" height="full" >}}
 <p class="lead mt-5">Text us to find out more about our property management services.</p>
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+447440344860">
-  UK <i class="fas fa-whatsapp ms-2"></i>
+  UK <i class="fab fa-whatsapp ms-2"></i>
 </a>
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+447440344860">
-  Belgium <i class="fas fa-whatsapp ms-2"></i>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+32467830927">
+  Belgium <i class="fab fa-whatsapp ms-2"></i>
 </a>
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+447440344860">
-  France <i class="fas fa-whatsapp ms-2"></i>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+33759255103">
+  France <i class="fab fa-whatsapp ms-2"></i>
 </a>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
-
 
 {{% blocks/lead color="primary" %}}
 

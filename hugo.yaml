@@ -1,5 +1,5 @@
 baseURL: https://property.deployview.com
-title: DeployView Property
+title: "DeployView Property"
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
